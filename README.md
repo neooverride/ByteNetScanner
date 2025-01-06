@@ -1,8 +1,7 @@
 # ByteNetScanner 🔍💻.
-![Alt Text](https://github.com/x4ldr1t89z/ByteNetScanner./blob/main/image.png)
-
-# 🌟 Introduction:
 ByteNetScanner is a suite of scripts designed for fast and efficient network discovery, IP address validation, domain lookups, and much more.
+
+![Alt Text](https://github.com/x4ldr1t89z/ByteNetScanner./blob/main/image.png)
 
 # 🚀 Features:
 1. Ping Sweep: Efficiently check the status of multiple IPs using a ping test, with support for CIDR notation, domain validation, and more.
