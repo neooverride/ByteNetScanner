@@ -32,11 +32,11 @@ pip install requests
 # 🛠️ Installation:
 - Clone the repository to your local machine:
 ```bash
-git clone https://github.com/x4ldr1t89z/ByteNetScanner..git
+git clone https://github.com/x4ldr1t89z/ByteNetScanner.git
 ```
 - Navigate into the project directory:
 ```bash
-cd ByteNetScanner.
+cd ByteNetScanner
 ```
 # 🧑‍💻 Usage:
 Once the setup is complete, you can run the main.py script, which serves as the entry point to use all the functionalities of ByteNetScanner.
