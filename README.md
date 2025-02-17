@@ -1,6 +1,6 @@
 # ByteNetScanner 🔍💻.
 
-![Alt Text](https://github.com/NeoOverride/ByteNetScanner./blob/main/image.png)
+![Alt Text](https://github.com/x4ldr1t89z/ByteNetScanner./blob/main/image.png)
 
 ByteNetScanner is a suite of scripts designed for fast and efficient network discovery, IP address validation, domain lookups, and much more.
 
