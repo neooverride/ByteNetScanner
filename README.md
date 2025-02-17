@@ -32,7 +32,7 @@ pip install requests
 ## 🛠️ Installation:
 - Clone the repository to your local machine:
 ```bash
-git clone https://github.com/x4ldr1t89z/ByteNetScanner.git
+https://github.com/NeoOverride-0x1F4/ByteNetScanner.git
 ```
 - Navigate into the project directory:
 ```bash
@@ -45,6 +45,7 @@ sudo python main.py
 ```
 ## 💪 Future Enhancements 🔮:
 - I will update this project `ByteNetScanner` in the future to make it more advanced and capable of bypassing firewalls;
+
 
 ## 🤝 Contributing:
 -------------------
