@@ -51,5 +51,3 @@ sudo python main.py
 -------------------
 
 I welcome contributions from the community. You can fork the repository, submit issues, or create pull requests.
-
-For any queries, mail at: [alishbaabdulstealth@gmail.com](mailto:alishbaabdulstealth@gmail.com)
