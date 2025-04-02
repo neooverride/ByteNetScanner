@@ -39,12 +39,12 @@ git clone https://github.com/neooverride/ByteNetScanner.git
 cd ByteNetScanner
 ```
 ## 🧑‍💻 Usage:
-Once the setup is complete, you can run the main.py script, which serves as the entry point to use all the functionalities of ByteNetScanner.
+Once the setup is complete, you can run the main.py script.
 ```bash
 sudo python main.py
 ```
 ## 💪 Future Enhancements 🔮:
-- I will update this project `ByteNetScanner` in the future to make it more advanced and capable of bypassing firewalls;
+I will update this project `ByteNetScanner` in the future to make it more advanced and capable of bypassing firewalls.
 
 
 ## 🤝 Contributing:
