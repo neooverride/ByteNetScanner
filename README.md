@@ -48,6 +48,5 @@ sudo python main.py
 
 
 ## 🤝 Contributing:
--------------------
 
 I welcome contributions from the community. You can fork the repository, submit issues, or create pull requests.
